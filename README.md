@@ -22,7 +22,7 @@ Thijs Koppert
 Blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+hier je focus (kies uit responsive óf surface plane) - Surface plane
  
 </details>
 
