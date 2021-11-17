@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Thijs Koppert 
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Blauwe piste
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+hier je focus (kies uit responsive óf surface plane) - Surface plane
  
 </details>
 
@@ -40,11 +40,11 @@ link naar de website die je gaat namaken óf de naam/omschrijving van je eigen o
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home pagina NOS 
-<img src="images/homepage-nos.jpeg" width="375px" alt="homepagina nos">
+<img src="images/homepage-nos.jpeg" width="200px" alt="homepagina nos">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 2e pagina NOS
-<img src="images/secondpage-nos.jpeg" width="375px" alt="tweede pagina nos">
+<img src="images/secondpage-nos.jpeg" width="200px" alt="tweede pagina nos">
  
 </details>
 
