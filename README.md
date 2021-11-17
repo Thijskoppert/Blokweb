@@ -39,12 +39,12 @@ hier je focus (kies uit responsive óf surface plane)
 link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Home pagina NOS 
+<img src="images/homepage-nos.jpeg" width="375px" alt="homepagina nos">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+2e pagina NOS
+<img src="images/secondpage-nos.jpeg" width="375px" alt="tweede pagina nos">
  
 </details>
 
