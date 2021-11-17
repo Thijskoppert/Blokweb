@@ -36,7 +36,7 @@ hier je focus (kies uit responsive óf surface plane) - Surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+ http://www.nos.nl
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home pagina NOS 
